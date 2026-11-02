@@ -1,0 +1,7 @@
+.env
+data/football.db
+data/model.pkl
+__pycache__/
+*.pyc
+.venv/
+venv/
